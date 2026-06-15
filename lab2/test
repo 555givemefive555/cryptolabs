@@ -1,0 +1,6 @@
+The quick brown fox jumps over the lazy dog. This sentence contains every letter of the English alphabet. 
+Information entropy is a measure of uncertainty or randomness in a data set. When all symbols are equally 
+likely to occur, the entropy is at its maximum. When one symbol appears much more frequently than others, 
+the entropy is low. Shannon entropy is calculated as the negative sum of probabilities times log base two 
+of probabilities. This concept is fundamental to information theory and data compression. The more random 
+the data, the harder it is to compress because each symbol carries more information.
