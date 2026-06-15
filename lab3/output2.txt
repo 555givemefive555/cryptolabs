@@ -1,0 +1,3 @@
+Hello World! This is my secret message.
+The Vernam cipher requires a random key.
+XOR operation makes it unbreakable.
